@@ -28,7 +28,7 @@
     "browserify": "13.*",
     "browserify-istanbul": "2.0.*",
     "coveralls": "^2.11.14",
-    "eslint": "2.*",
+    "eslint": ">=4.18.2",
     "fetch-mock": "^5.1.2",
     "git-changelog": "1.0.*",
     "jasmine-core": "^2.2.0",
